@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#icon {
+    width: 30px;
+    cursor: pointer;
+}
